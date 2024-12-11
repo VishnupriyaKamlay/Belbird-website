@@ -1,4 +1,4 @@
-# Bitcoin prediction
+# Belbird Website
 
 This responsive web application is designed to showcase and sell smart switches and door locks, offering users an intuitive and engaging platform for browsing and purchasing products. With a focus on user experience, the website features easy navigation, detailed product information, and seamless interactions, making it convenient for customers to find and purchase the smart home devices they need. The application was developed with close collaboration between designers and backend developers to ensure the smooth integration of front-end and back-end functionalities, creating a well-rounded, effective online shopping experience.
 
